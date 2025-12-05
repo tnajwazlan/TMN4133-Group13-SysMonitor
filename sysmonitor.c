@@ -1,7 +1,7 @@
 /*
  * SysMonitor++ - Linux System Resource Monitoring Tool
  * TMN4133 System Programming Group Project
- * Member 1: Core Infrastructure & CPU Module
+ * Najwa: Main Code Structure & CPU Usage Module
  */
 
 #include <stdio.h>
