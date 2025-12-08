@@ -4,8 +4,8 @@
  * Najwa: Main Code Structure & CPU Usage Module
  * Hanisah Zain: Memory Usage & Top Processes Implementation
  * Hanisah Ibrahim : README.md and Documentation
+ * Amisha Rittner : Command-Line Interface (CLI) Implementation
  */
-
 #include <stdio.h>
 #include <stdlib.h>
 #include <string.h>
