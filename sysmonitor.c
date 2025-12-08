@@ -4,7 +4,7 @@
  * Najwa: Main Code Structure & CPU Usage Module
  * Hanisah Zain: Memory Usage & Top Processes Implementation
  * Hanisah Ibrahim : README.md and Documentation
- * Amisha Rittner : Command-Line Interface (CLI) Implementation
+ * Amisha Rittner : CLI Argument Parsing & Continuous Monitoring
  */
 #include <stdio.h>
 #include <stdlib.h>
@@ -39,6 +39,7 @@ void writeLog(const char* message);
 void getCurrentTimestamp(char* buffer, size_t size);
 int compareProcesses(const void *a, const void *b);
 int getProcessInfo(int pid, ProcessInfo *proc);
+void printUsage();
 
 /*
  * Main function - Entry point of the program
@@ -52,7 +53,59 @@ int main(int argc, char *argv[]) {
     // Log program start
     writeLog("=== SysMonitor++ Started ===");
     
-    // Main menu loop
+// ---------------------------------------------------------
+    // MEMBER 3 IMPLEMENTATION: Command-Line Argument Parsing
+    // ---------------------------------------------------------
+    if (argc > 1) {
+        // Handle "-m" (Mode Selection)
+        if (strcmp(argv[1], "-m") == 0) {
+            if (argc < 3) {
+                printf("Error: missing parameter. Use -m [cpu/mem/proc]\n");
+                return 1;
+            }
+
+            if (strcmp(argv[2], "cpu") == 0) {
+                getCPUUsage();
+            } else if (strcmp(argv[2], "mem") == 0) {
+                getMemoryUsage();
+            } else if (strcmp(argv[2], "proc") == 0) {
+                listTopProcesses();
+            } else {
+                printf("Invalid parameter. Use -m [cpu/mem/proc]\n");
+                return 1;
+            }
+        }
+        // Handle "-c" (Continuous Monitoring)
+        else if (strcmp(argv[1], "-c") == 0) {
+            if (argc < 3) {
+                printf("Error: missing refresh interval. Use -c [seconds]\n");
+                return 1;
+            }
+            int interval = atoi(argv[2]);
+            if (interval > 0) {
+                continuousMonitor(interval);
+            } else {
+                printf("Invalid interval! Must be an integer > 0.\n");
+                return 1;
+            }
+        }
+        // Handle Help or Invalid Options
+        else if (strcmp(argv[1], "-h") == 0) {
+            printUsage();
+        } else {
+            printf("Invalid option. Use -h for help.\n");
+            return 1;
+        }
+
+        // If we ran a single command (not continuous), exit here.
+        // Continuous monitor has its own loop, but if it returns, we exit.
+        return 0;
+    }
+
+    // ---------------------------------------------------------
+    // MENU MODE (If no arguments provided)
+    // ---------------------------------------------------------
+    
     while(keep_running) {
         displayMenu();
         printf("Enter your choice: ");
@@ -119,6 +172,19 @@ void displayMenu() {
     printf("4. Continuous Monitoring\n");
     printf("5. Exit\n");
     printf("========================================\n");
+}
+
+/*
+ * Helper: Print Usage/Help Message
+ */
+void printUsage() {
+    printf("Usage: ./sysmonitor [flags]\n");
+    printf("Flags:\n");
+    printf("  -m cpu     : Display CPU usage\n");
+    printf("  -m mem     : Display Memory usage\n");
+    printf("  -m proc    : Display Top 5 Processes\n");
+    printf("  -c [sec]   : Continuous monitoring (refresh every [sec] seconds)\n");
+    printf("  -h         : Show this help message\n");
 }
 
 /*
@@ -459,18 +525,34 @@ void listTopProcesses() {
 
 /*
  * Continuous Monitoring Mode
- * TO BE IMPLEMENTED BY MEMBER 3
+ * TO BE IMPLEMENTED BY MEMBER 3 (alr implement)
  */
 void continuousMonitor(int interval) {
-    printf("========================================\n");
-    printf("      CONTINUOUS MONITORING MODE\n");
-    printf("========================================\n");
-    printf("This feature will be implemented by Member 3.\n");
-    printf("Refresh interval: %d seconds\n", interval);
-    printf("Press Ctrl+C to stop.\n");
-    printf("========================================\n");
-    
-    writeLog("Continuous Monitor: Feature pending (Member 3)");
+    char msg[100];
+    snprintf(msg, sizeof(msg), "=== Continuous Monitoring Started (Interval: %ds) ===", interval);
+    writeLog(msg);
+
+    while(keep_running) {
+        // Clear screen using ANSI escape codes
+        printf("\033[H\033[J");
+        
+        printf("========================================\n");
+        printf("   CONTINUOUS MONITORING (Every %ds)\n", interval);
+        printf("      Press Ctrl+C to Exit\n");
+        printf("========================================\n");
+        
+        // Display all info
+        getCPUUsage();
+        printf("\n");
+        getMemoryUsage();
+        printf("\n");
+        listTopProcesses();
+        
+        printf("\nRunning... (Press Ctrl+C to stop)\n");
+        
+        // Wait for next interval
+        sleep(interval);
+    }
 }
 
 /*
