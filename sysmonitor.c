@@ -3,6 +3,7 @@
  * TMN4133 System Programming Group Project
  * Najwa: Main Code Structure & CPU Usage Module
  * Hanisah Zain: Memory Usage & Top Processes Implementation
+ * Hanisah Ibrahim : README.md and Documentation
  */
 
 #include <stdio.h>
