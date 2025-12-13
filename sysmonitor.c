@@ -53,9 +53,7 @@ int main(int argc, char *argv[]) {
     // Log program start
     writeLog("=== SysMonitor++ Started ===");
     
-// ---------------------------------------------------------
-    // MEMBER 3 IMPLEMENTATION: Command-Line Argument Parsing
-    // ---------------------------------------------------------
+    // Command-Line Argument Parsing
     if (argc > 1) {
         // Handle "-m" (Mode Selection)
         if (strcmp(argv[1], "-m") == 0) {
@@ -102,9 +100,7 @@ int main(int argc, char *argv[]) {
         return 0;
     }
 
-    // ---------------------------------------------------------
     // MENU MODE (If no arguments provided)
-    // ---------------------------------------------------------
     
     while(keep_running) {
         displayMenu();
