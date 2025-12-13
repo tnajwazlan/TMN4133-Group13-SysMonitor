@@ -1,0 +1,344 @@
+[2025-12-05 15:16:43] === SysMonitor++ Started ===
+[2025-12-05 15:17:07] CPU Usage: 8.26%
+[2025-12-05 15:17:12] Memory Usage: Feature pending (Member 2)
+[2025-12-05 15:17:14] Top Processes: Feature pending (Member 2)
+[2025-12-05 15:17:19] Top Processes: Feature pending (Member 2)
+[2025-12-05 15:17:27] Continuous Monitor: Feature pending (Member 3)
+[2025-12-05 15:17:32] === SysMonitor++ Ended (User Exit) ===
+[2025-12-05 21:03:18] === SysMonitor++ Started ===
+[2025-12-05 21:03:23] CPU Usage: 4.46%
+[2025-12-05 21:03:30] Memory Usage: Feature pending (Member 2)
+[2025-12-05 21:03:33] Top Processes: Feature pending (Member 2)
+[2025-12-05 21:03:47] Continuous Monitor: Feature pending (Member 3)
+[2025-12-05 21:18:29] === SysMonitor++ Ended (User Exit) ===
+[2025-12-05 21:20:12] === SysMonitor++ Started ===
+[2025-12-05 21:20:15] === SysMonitor++ Ended (User Exit) ===
+[2025-12-05 21:25:11] === SysMonitor++ Started ===
+[2025-12-05 21:25:13] === SysMonitor++ Ended (User Exit) ===
+[2025-12-05 22:17:44] === SysMonitor++ Started ===
+[2025-12-05 22:17:47] Top Processes: Feature pending (Member 2)
+[2025-12-05 22:17:52] Memory Usage: Feature pending (Member 2)
+[2025-12-05 22:18:00] Continuous Monitor: Feature pending (Member 3)
+[2025-12-05 22:18:02] === SysMonitor++ Ended (SIGINT) ===
+[2025-12-08 22:17:05] === SysMonitor++ Started ===
+[2025-12-08 22:17:16] CPU Usage: 0.69%
+[2025-12-08 22:17:20] Memory Usage: 11.89% (456.30/3836.21 MB), Swap: 0.00%
+[2025-12-08 22:17:24] Top 5 Processes: rsyslogd(256) systemd(1) systemd-journal(74) gdm3(593) systemd-udevd(129) 
+[2025-12-08 22:17:34] === Continuous Monitoring Started (Interval: 4s) ===
+[2025-12-08 22:17:34] CPU Usage: 0.69%
+[2025-12-08 22:17:34] Memory Usage: 11.91% (456.91/3836.21 MB), Swap: 0.00%
+[2025-12-08 22:17:34] Top 5 Processes: rsyslogd(256) systemd(1) systemd-journal(74) gdm3(593) systemd-udevd(129) 
+[2025-12-08 22:17:38] CPU Usage: 0.69%
+[2025-12-08 22:17:38] Memory Usage: 11.91% (456.90/3836.21 MB), Swap: 0.00%
+[2025-12-08 22:17:38] Top 5 Processes: rsyslogd(256) systemd(1) systemd-journal(74) gdm3(593) systemd-udevd(129) 
+[2025-12-08 22:17:42] CPU Usage: 0.69%
+[2025-12-08 22:17:42] Memory Usage: 11.91% (456.89/3836.21 MB), Swap: 0.00%
+[2025-12-08 22:17:42] Top 5 Processes: rsyslogd(256) systemd(1) systemd-journal(74) gdm3(593) systemd-udevd(129) 
+[2025-12-08 22:17:43] === SysMonitor++ Ended (SIGINT) ===
+[2025-12-08 22:17:56] === SysMonitor++ Started ===
+[2025-12-08 22:17:58] === SysMonitor++ Ended (User Exit) ===
+[2025-12-08 22:18:02] === SysMonitor++ Started ===
+[2025-12-08 22:18:06] === Continuous Monitoring Started (Interval: 1s) ===
+[2025-12-08 22:18:06] CPU Usage: 0.68%
+[2025-12-08 22:18:06] Memory Usage: 11.92% (457.13/3836.21 MB), Swap: 0.00%
+[2025-12-08 22:18:06] Top 5 Processes: rsyslogd(256) systemd(1) systemd-journal(74) gdm3(593) systemd-udevd(129) 
+[2025-12-08 22:18:07] CPU Usage: 0.68%
+[2025-12-08 22:18:07] Memory Usage: 11.92% (457.13/3836.21 MB), Swap: 0.00%
+[2025-12-08 22:18:07] Top 5 Processes: rsyslogd(256) systemd(1) systemd-journal(74) gdm3(593) systemd-udevd(129) 
+[2025-12-08 22:18:08] CPU Usage: 0.68%
+[2025-12-08 22:18:08] Memory Usage: 11.92% (457.13/3836.21 MB), Swap: 0.00%
+[2025-12-08 22:18:08] Top 5 Processes: rsyslogd(256) systemd(1) systemd-journal(74) gdm3(593) systemd-udevd(129) 
+[2025-12-08 22:18:09] CPU Usage: 0.68%
+[2025-12-08 22:18:09] Memory Usage: 11.92% (457.12/3836.21 MB), Swap: 0.00%
+[2025-12-08 22:18:09] Top 5 Processes: rsyslogd(256) systemd(1) systemd-journal(74) gdm3(593) systemd-udevd(129) 
+[2025-12-08 22:18:10] CPU Usage: 0.68%
+[2025-12-08 22:18:10] Memory Usage: 11.92% (457.12/3836.21 MB), Swap: 0.00%
+[2025-12-08 22:18:10] Top 5 Processes: rsyslogd(256) systemd(1) systemd-journal(74) gdm3(593) systemd-udevd(129) 
+[2025-12-08 22:18:11] CPU Usage: 0.68%
+[2025-12-08 22:18:11] Memory Usage: 11.92% (457.12/3836.21 MB), Swap: 0.00%
+[2025-12-08 22:18:11] Top 5 Processes: rsyslogd(256) systemd(1) systemd-journal(74) gdm3(593) systemd-udevd(129) 
+[2025-12-08 22:18:12] CPU Usage: 0.68%
+[2025-12-08 22:18:12] Memory Usage: 11.92% (457.12/3836.21 MB), Swap: 0.00%
+[2025-12-08 22:18:12] Top 5 Processes: rsyslogd(256) systemd(1) systemd-journal(74) gdm3(593) systemd-udevd(129) 
+[2025-12-08 22:18:13] CPU Usage: 0.68%
+[2025-12-08 22:18:13] Memory Usage: 11.92% (457.12/3836.21 MB), Swap: 0.00%
+[2025-12-08 22:18:13] Top 5 Processes: rsyslogd(256) systemd(1) systemd-journal(74) gdm3(593) systemd-udevd(129) 
+[2025-12-08 22:18:14] CPU Usage: 0.68%
+[2025-12-08 22:18:14] Memory Usage: 11.92% (457.11/3836.21 MB), Swap: 0.00%
+[2025-12-08 22:18:14] Top 5 Processes: rsyslogd(256) systemd(1) systemd-journal(74) gdm3(593) systemd-udevd(129) 
+[2025-12-08 22:18:15] CPU Usage: 0.68%
+[2025-12-08 22:18:15] Memory Usage: 11.92% (457.11/3836.21 MB), Swap: 0.00%
+[2025-12-08 22:18:15] Top 5 Processes: rsyslogd(256) systemd(1) systemd-journal(74) gdm3(593) systemd-udevd(129) 
+[2025-12-08 22:18:15] === SysMonitor++ Ended (SIGINT) ===
+[2025-12-08 22:18:21] === SysMonitor++ Started ===
+[2025-12-08 22:18:23] === SysMonitor++ Ended (User Exit) ===
+[2025-12-08 22:18:39] === SysMonitor++ Started ===
+[2025-12-08 22:18:59] === Continuous Monitoring Started (Interval: 10s) ===
+[2025-12-08 22:18:59] CPU Usage: 0.68%
+[2025-12-08 22:18:59] Memory Usage: 11.78% (452.07/3836.21 MB), Swap: 0.00%
+[2025-12-08 22:18:59] Top 5 Processes: rsyslogd(256) systemd(1) systemd-journal(74) gdm3(593) systemd-udevd(129) 
+[2025-12-08 22:19:09] CPU Usage: 0.68%
+[2025-12-08 22:19:09] Memory Usage: 11.78% (452.07/3836.21 MB), Swap: 0.00%
+[2025-12-08 22:19:09] Top 5 Processes: rsyslogd(256) systemd(1) systemd-journal(74) gdm3(593) systemd-udevd(129) 
+[2025-12-08 22:19:19] CPU Usage: 0.68%
+[2025-12-08 22:19:19] Memory Usage: 11.78% (452.06/3836.21 MB), Swap: 0.00%
+[2025-12-08 22:19:19] Top 5 Processes: rsyslogd(256) systemd(1) systemd-journal(74) gdm3(593) systemd-udevd(129) 
+[2025-12-08 22:19:27] === SysMonitor++ Ended (SIGINT) ===
+[2025-12-09 01:11:39] === SysMonitor++ Started ===
+[2025-12-09 01:11:54] === Continuous Monitoring Started (Interval: 2s) ===
+[2025-12-09 01:11:54] CPU Usage: 0.63%
+[2025-12-09 01:11:54] Memory Usage: 13.00% (498.70/3836.21 MB), Swap: 0.00%
+[2025-12-09 01:11:54] Top 5 Processes: rsyslogd(256) systemd(1) systemd-journal(74) gdm3(593) systemd-udevd(129) 
+[2025-12-09 01:11:56] CPU Usage: 0.63%
+[2025-12-09 01:11:56] Memory Usage: 13.00% (498.70/3836.21 MB), Swap: 0.00%
+[2025-12-09 01:11:56] Top 5 Processes: rsyslogd(256) systemd(1) systemd-journal(74) gdm3(593) systemd-udevd(129) 
+[2025-12-09 01:11:58] CPU Usage: 0.63%
+[2025-12-09 01:11:58] Memory Usage: 13.00% (498.70/3836.21 MB), Swap: 0.00%
+[2025-12-09 01:11:58] Top 5 Processes: rsyslogd(256) systemd(1) systemd-journal(74) gdm3(593) systemd-udevd(129) 
+[2025-12-09 01:12:00] CPU Usage: 0.63%
+[2025-12-09 01:12:00] Memory Usage: 13.01% (499.07/3836.21 MB), Swap: 0.00%
+[2025-12-09 01:12:00] Top 5 Processes: rsyslogd(256) systemd(1) systemd-journal(74) gdm3(593) systemd-udevd(129) 
+[2025-12-09 01:12:02] CPU Usage: 0.63%
+[2025-12-09 01:12:02] Memory Usage: 13.01% (499.07/3836.21 MB), Swap: 0.00%
+[2025-12-09 01:12:02] Top 5 Processes: rsyslogd(256) systemd(1) systemd-journal(74) gdm3(593) systemd-udevd(129) 
+[2025-12-09 01:12:04] CPU Usage: 0.63%
+[2025-12-09 01:12:04] Memory Usage: 13.01% (499.07/3836.21 MB), Swap: 0.00%
+[2025-12-09 01:12:04] Top 5 Processes: rsyslogd(256) systemd(1) systemd-journal(74) gdm3(593) systemd-udevd(129) 
+[2025-12-09 01:12:06] CPU Usage: 0.63%
+[2025-12-09 01:12:06] Memory Usage: 13.01% (499.06/3836.21 MB), Swap: 0.00%
+[2025-12-09 01:12:06] Top 5 Processes: rsyslogd(256) systemd(1) systemd-journal(74) gdm3(593) systemd-udevd(129) 
+[2025-12-09 01:12:08] CPU Usage: 0.63%
+[2025-12-09 01:12:08] Memory Usage: 13.01% (499.06/3836.21 MB), Swap: 0.00%
+[2025-12-09 01:12:08] Top 5 Processes: rsyslogd(256) systemd(1) systemd-journal(74) gdm3(593) systemd-udevd(129) 
+[2025-12-09 01:12:10] CPU Usage: 0.63%
+[2025-12-09 01:12:10] Memory Usage: 13.01% (499.06/3836.21 MB), Swap: 0.00%
+[2025-12-09 01:12:10] Top 5 Processes: rsyslogd(256) systemd(1) systemd-journal(74) gdm3(593) systemd-udevd(129) 
+[2025-12-09 01:12:12] CPU Usage: 0.63%
+[2025-12-09 01:12:12] Memory Usage: 13.01% (499.05/3836.21 MB), Swap: 0.00%
+[2025-12-09 01:12:12] Top 5 Processes: rsyslogd(256) systemd(1) systemd-journal(74) gdm3(593) systemd-udevd(129) 
+[2025-12-09 01:12:14] CPU Usage: 0.63%
+[2025-12-09 01:12:14] Memory Usage: 13.01% (499.05/3836.21 MB), Swap: 0.00%
+[2025-12-09 01:12:14] Top 5 Processes: rsyslogd(256) systemd(1) systemd-journal(74) gdm3(593) systemd-udevd(129) 
+[2025-12-09 01:12:16] CPU Usage: 0.63%
+[2025-12-09 01:12:16] Memory Usage: 13.01% (499.05/3836.21 MB), Swap: 0.00%
+[2025-12-09 01:12:16] Top 5 Processes: rsyslogd(256) systemd(1) systemd-journal(74) gdm3(593) systemd-udevd(129) 
+[2025-12-09 01:12:17] === SysMonitor++ Ended (SIGINT) ===
+[2025-12-09 01:12:20] === SysMonitor++ Started ===
+[2025-12-09 01:12:21] CPU Usage: 0.63%
+[2025-12-09 01:12:23] Memory Usage: 13.01% (499.04/3836.21 MB), Swap: 0.00%
+[2025-12-09 01:12:25] Top 5 Processes: rsyslogd(256) systemd(1) systemd-journal(74) gdm3(593) systemd-udevd(129) 
+[2025-12-09 01:12:28] Top 5 Processes: rsyslogd(256) systemd(1) systemd-journal(74) gdm3(593) systemd-udevd(129) 
+[2025-12-09 01:12:31] === Continuous Monitoring Started (Interval: 1s) ===
+[2025-12-09 01:12:31] CPU Usage: 0.63%
+[2025-12-09 01:12:31] Memory Usage: 13.02% (499.38/3836.21 MB), Swap: 0.00%
+[2025-12-09 01:12:31] Top 5 Processes: rsyslogd(256) systemd(1) systemd-journal(74) gdm3(593) systemd-udevd(129) 
+[2025-12-09 01:12:32] CPU Usage: 0.63%
+[2025-12-09 01:12:32] Memory Usage: 13.02% (499.38/3836.21 MB), Swap: 0.00%
+[2025-12-09 01:12:32] Top 5 Processes: rsyslogd(256) systemd(1) systemd-journal(74) gdm3(593) systemd-udevd(129) 
+[2025-12-09 01:12:33] CPU Usage: 0.63%
+[2025-12-09 01:12:33] Memory Usage: 13.02% (499.38/3836.21 MB), Swap: 0.00%
+[2025-12-09 01:12:33] Top 5 Processes: rsyslogd(256) systemd(1) systemd-journal(74) gdm3(593) systemd-udevd(129) 
+[2025-12-09 01:12:34] CPU Usage: 0.63%
+[2025-12-09 01:12:34] Memory Usage: 13.02% (499.38/3836.21 MB), Swap: 0.00%
+[2025-12-09 01:12:34] Top 5 Processes: rsyslogd(256) systemd(1) systemd-journal(74) gdm3(593) systemd-udevd(129) 
+[2025-12-09 01:12:35] CPU Usage: 0.63%
+[2025-12-09 01:12:35] Memory Usage: 13.02% (499.38/3836.21 MB), Swap: 0.00%
+[2025-12-09 01:12:35] Top 5 Processes: rsyslogd(256) systemd(1) systemd-journal(74) gdm3(593) systemd-udevd(129) 
+[2025-12-09 01:12:36] CPU Usage: 0.63%
+[2025-12-09 01:12:36] Memory Usage: 13.02% (499.38/3836.21 MB), Swap: 0.00%
+[2025-12-09 01:12:36] Top 5 Processes: rsyslogd(256) systemd(1) systemd-journal(74) gdm3(593) systemd-udevd(129) 
+[2025-12-09 01:12:37] CPU Usage: 0.63%
+[2025-12-09 01:12:37] Memory Usage: 13.02% (499.38/3836.21 MB), Swap: 0.00%
+[2025-12-09 01:12:37] Top 5 Processes: rsyslogd(256) systemd(1) systemd-journal(74) gdm3(593) systemd-udevd(129) 
+[2025-12-09 01:12:38] CPU Usage: 0.63%
+[2025-12-09 01:12:38] Memory Usage: 13.02% (499.38/3836.21 MB), Swap: 0.00%
+[2025-12-09 01:12:38] Top 5 Processes: rsyslogd(256) systemd(1) systemd-journal(74) gdm3(593) systemd-udevd(129) 
+[2025-12-09 01:12:38] === SysMonitor++ Ended (SIGINT) ===
+[2025-12-09 01:12:43] === SysMonitor++ Started ===
+[2025-12-09 01:12:44] === SysMonitor++ Ended (User Exit) ===
+[2025-12-12 11:43:07] === SysMonitor++ Started ===
+[2025-12-12 11:43:14] === SysMonitor++ Started ===
+[2025-12-12 11:43:20] === SysMonitor++ Started ===
+[2025-12-12 11:43:25] === SysMonitor++ Started ===
+[2025-12-12 11:43:25] === Continuous Monitoring Started (Interval: 2s) ===
+[2025-12-12 11:43:25] CPU Usage: 26.84%
+[2025-12-12 11:43:25] Memory Usage: 14.51% (556.52/3836.21 MB), Swap: 0.00%
+[2025-12-12 11:43:25] Top 5 Processes: rsyslogd(209) systemd-journal(62) gdm3(407) accounts-daemon(181) systemd(1) 
+[2025-12-12 11:43:27] CPU Usage: 26.88%
+[2025-12-12 11:43:27] Memory Usage: 14.54% (557.95/3836.21 MB), Swap: 0.00%
+[2025-12-12 11:43:27] Top 5 Processes: rsyslogd(209) systemd-journal(62) gdm3(407) accounts-daemon(181) Xorg(843) 
+[2025-12-12 11:43:29] CPU Usage: 26.94%
+[2025-12-12 11:43:29] Memory Usage: 14.59% (559.85/3836.21 MB), Swap: 0.00%
+[2025-12-12 11:43:29] Top 5 Processes: rsyslogd(209) systemd-journal(62) gdm3(407) accounts-daemon(181) Xorg(843) 
+[2025-12-12 11:43:29] === SysMonitor++ Ended (SIGINT) ===
+[2025-12-12 11:43:35] === SysMonitor++ Started ===
+[2025-12-12 11:43:35] Top 5 Processes: rsyslogd(209) systemd-journal(62) gdm3(407) accounts-daemon(181) systemd(1) 
+[2025-12-12 11:43:44] === SysMonitor++ Started ===
+[2025-12-12 11:43:44] Memory Usage: 14.76% (566.07/3836.21 MB), Swap: 0.00%
+[2025-12-12 11:43:55] === SysMonitor++ Started ===
+[2025-12-12 11:43:55] CPU Usage: 27.66%
+[2025-12-13 23:46:31] === SysMonitor++ Started ===
+[2025-12-13 23:46:31] === Continuous Monitoring Started (Interval: 2s) ===
+[2025-12-13 23:46:31] CPU Usage: 19.15%
+[2025-12-13 23:46:31] Memory Usage: 9.77% (374.63/3836.21 MB), Swap: 0.00%
+[2025-12-13 23:46:31] Top 5 Processes: systemd(1) wsl-pro-service(276) systemd-udevd(150) NetworkManager(305) systemd-journal(92) 
+[2025-12-13 23:46:33] CPU Usage: 18.60%
+[2025-12-13 23:46:33] Memory Usage: 9.77% (374.87/3836.21 MB), Swap: 0.00%
+[2025-12-13 23:46:33] Top 5 Processes: systemd(1) wsl-pro-service(276) systemd-udevd(150) NetworkManager(305) systemd-journal(92) 
+[2025-12-13 23:46:35] CPU Usage: 18.82%
+[2025-12-13 23:46:35] Memory Usage: 10.03% (384.95/3836.21 MB), Swap: 0.00%
+[2025-12-13 23:46:35] Top 5 Processes: systemd(1) wsl-pro-service(276) systemd-udevd(150) NetworkManager(305) systemd-journal(92) 
+[2025-12-13 23:46:37] CPU Usage: 19.27%
+[2025-12-13 23:46:37] Memory Usage: 10.12% (388.29/3836.21 MB), Swap: 0.00%
+[2025-12-13 23:46:37] Top 5 Processes: systemd(1) wsl-pro-service(276) systemd-udevd(150) NetworkManager(305) systemd-journal(92) 
+[2025-12-13 23:46:39] CPU Usage: 19.60%
+[2025-12-13 23:46:39] Memory Usage: 10.18% (390.66/3836.21 MB), Swap: 0.00%
+[2025-12-13 23:46:39] Top 5 Processes: systemd(1) wsl-pro-service(276) systemd-udevd(150) NetworkManager(305) systemd-journal(92) 
+[2025-12-13 23:46:41] CPU Usage: 19.91%
+[2025-12-13 23:46:41] Memory Usage: 10.21% (391.83/3836.21 MB), Swap: 0.00%
+[2025-12-13 23:46:41] Top 5 Processes: systemd(1) wsl-pro-service(276) systemd-udevd(150) Xorg(647) rsyslogd(294) 
+[2025-12-13 23:46:43] CPU Usage: 20.22%
+[2025-12-13 23:46:43] Memory Usage: 10.28% (394.36/3836.21 MB), Swap: 0.00%
+[2025-12-13 23:46:43] Top 5 Processes: systemd(1) Xorg(647) wsl-pro-service(276) rsyslogd(294) systemd-udevd(150) 
+[2025-12-13 23:46:45] CPU Usage: 20.52%
+[2025-12-13 23:46:45] Memory Usage: 10.26% (393.57/3836.21 MB), Swap: 0.00%
+[2025-12-13 23:46:45] Top 5 Processes: systemd(1) Xorg(647) rsyslogd(294) systemd-journal(92) wsl-pro-service(276) 
+[2025-12-13 23:46:47] CPU Usage: 20.80%
+[2025-12-13 23:46:47] Memory Usage: 10.28% (394.44/3836.21 MB), Swap: 0.00%
+[2025-12-13 23:46:47] Top 5 Processes: systemd(1) Xorg(647) rsyslogd(294) systemd-journal(92) wsl-pro-service(276) 
+[2025-12-13 23:46:49] CPU Usage: 21.03%
+[2025-12-13 23:46:49] Memory Usage: 10.35% (396.90/3836.21 MB), Swap: 0.00%
+[2025-12-13 23:46:49] Top 5 Processes: systemd(1) Xorg(647) rsyslogd(294) systemd-journal(92) wsl-pro-service(276) 
+[2025-12-13 23:46:49] === SysMonitor++ Ended (SIGINT) ===
+[2025-12-13 23:47:22] === SysMonitor++ Started ===
+[2025-12-13 23:47:43] === Continuous Monitoring Started (Interval: 1s) ===
+[2025-12-13 23:47:43] CPU Usage: 25.47%
+[2025-12-13 23:47:43] Memory Usage: 10.82% (415.12/3836.21 MB), Swap: 0.00%
+[2025-12-13 23:47:43] Top 5 Processes: rsyslogd(294) systemd-journal(92) systemd(1) gdm3(538) Xorg(738) 
+[2025-12-13 23:47:44] CPU Usage: 25.51%
+[2025-12-13 23:47:44] Memory Usage: 10.84% (415.90/3836.21 MB), Swap: 0.00%
+[2025-12-13 23:47:44] Top 5 Processes: rsyslogd(294) systemd-journal(92) systemd(1) gdm3(538) Xorg(738) 
+[2025-12-13 23:47:45] CPU Usage: 25.54%
+[2025-12-13 23:47:45] Memory Usage: 10.86% (416.71/3836.21 MB), Swap: 0.00%
+[2025-12-13 23:47:45] Top 5 Processes: rsyslogd(294) systemd-journal(92) systemd(1) gdm3(538) Xorg(738) 
+[2025-12-13 23:47:46] CPU Usage: 25.58%
+[2025-12-13 23:47:46] Memory Usage: 10.89% (417.87/3836.21 MB), Swap: 0.00%
+[2025-12-13 23:47:46] Top 5 Processes: rsyslogd(294) systemd-journal(92) systemd(1) gdm3(538) Xorg(738) 
+[2025-12-13 23:47:47] CPU Usage: 25.65%
+[2025-12-13 23:47:47] Memory Usage: 10.53% (403.88/3836.21 MB), Swap: 0.00%
+[2025-12-13 23:47:47] Top 5 Processes: rsyslogd(294) systemd-journal(92) systemd(1) gdm3(538) wsl-pro-service(276) 
+[2025-12-13 23:47:48] CPU Usage: 25.74%
+[2025-12-13 23:47:48] Memory Usage: 10.58% (405.90/3836.21 MB), Swap: 0.00%
+[2025-12-13 23:47:48] Top 5 Processes: rsyslogd(294) systemd-journal(92) systemd(1) gdm3(538) wsl-pro-service(276) 
+[2025-12-13 23:47:49] CPU Usage: 25.79%
+[2025-12-13 23:47:49] Memory Usage: 10.61% (407.01/3836.21 MB), Swap: 0.00%
+[2025-12-13 23:47:49] Top 5 Processes: rsyslogd(294) systemd-journal(92) systemd(1) gdm3(538) wsl-pro-service(276) 
+[2025-12-13 23:47:50] CPU Usage: 25.84%
+[2025-12-13 23:47:50] Memory Usage: 10.63% (407.85/3836.21 MB), Swap: 0.00%
+[2025-12-13 23:47:50] Top 5 Processes: rsyslogd(294) systemd-journal(92) systemd(1) gdm3(538) wsl-pro-service(276) 
+[2025-12-13 23:47:50] === SysMonitor++ Ended (SIGINT) ===
+[2025-12-13 23:48:18] === SysMonitor++ Started ===
+[2025-12-13 23:49:00] === SysMonitor++ Ended (User Exit) ===
+[2025-12-13 23:49:13] === SysMonitor++ Started ===
+[2025-12-13 23:49:13] CPU Usage: 27.07%
+[2025-12-13 23:54:54] === SysMonitor++ Started ===
+[2025-12-13 23:54:58] === Continuous Monitoring Started (Interval: 1s) ===
+[2025-12-13 23:54:58] CPU Usage: 10.78%
+[2025-12-13 23:54:58] Memory Usage: 10.36% (397.27/3836.21 MB), Swap: 0.00%
+[2025-12-13 23:54:58] Top 5 Processes: rsyslogd(294) systemd-journal(92) gdm3(538) systemd(1) accounts-daemon(248) 
+[2025-12-13 23:54:59] CPU Usage: 10.76%
+[2025-12-13 23:54:59] Memory Usage: 10.36% (397.27/3836.21 MB), Swap: 0.00%
+[2025-12-13 23:54:59] Top 5 Processes: rsyslogd(294) systemd-journal(92) gdm3(538) systemd(1) accounts-daemon(248) 
+[2025-12-13 23:55:00] CPU Usage: 10.74%
+[2025-12-13 23:55:00] Memory Usage: 10.36% (397.26/3836.21 MB), Swap: 0.00%
+[2025-12-13 23:55:00] Top 5 Processes: rsyslogd(294) systemd-journal(92) gdm3(538) systemd(1) accounts-daemon(248) 
+[2025-12-13 23:55:01] CPU Usage: 10.72%
+[2025-12-13 23:55:01] Memory Usage: 10.36% (397.26/3836.21 MB), Swap: 0.00%
+[2025-12-13 23:55:01] Top 5 Processes: rsyslogd(294) systemd-journal(92) gdm3(538) systemd(1) accounts-daemon(248) 
+[2025-12-13 23:55:02] CPU Usage: 10.70%
+[2025-12-13 23:55:02] Memory Usage: 10.36% (397.26/3836.21 MB), Swap: 0.00%
+[2025-12-13 23:55:02] Top 5 Processes: rsyslogd(294) systemd-journal(92) gdm3(538) systemd(1) accounts-daemon(248) 
+[2025-12-13 23:55:03] CPU Usage: 10.68%
+[2025-12-13 23:55:03] Memory Usage: 10.36% (397.26/3836.21 MB), Swap: 0.00%
+[2025-12-13 23:55:03] Top 5 Processes: rsyslogd(294) systemd-journal(92) gdm3(538) systemd(1) accounts-daemon(248) 
+[2025-12-13 23:55:04] CPU Usage: 10.66%
+[2025-12-13 23:55:04] Memory Usage: 10.36% (397.26/3836.21 MB), Swap: 0.00%
+[2025-12-13 23:55:04] Top 5 Processes: rsyslogd(294) systemd-journal(92) gdm3(538) systemd(1) accounts-daemon(248) 
+[2025-12-13 23:55:05] CPU Usage: 10.64%
+[2025-12-13 23:55:05] Memory Usage: 10.36% (397.26/3836.21 MB), Swap: 0.00%
+[2025-12-13 23:55:05] Top 5 Processes: rsyslogd(294) systemd-journal(92) gdm3(538) systemd(1) accounts-daemon(248) 
+[2025-12-13 23:55:06] CPU Usage: 10.63%
+[2025-12-13 23:55:06] Memory Usage: 10.36% (397.51/3836.21 MB), Swap: 0.00%
+[2025-12-13 23:55:06] Top 5 Processes: rsyslogd(294) systemd-journal(92) gdm3(538) systemd(1) accounts-daemon(248) 
+[2025-12-13 23:55:07] CPU Usage: 10.61%
+[2025-12-13 23:55:07] Memory Usage: 10.36% (397.51/3836.21 MB), Swap: 0.00%
+[2025-12-13 23:55:07] Top 5 Processes: rsyslogd(294) systemd-journal(92) gdm3(538) systemd(1) accounts-daemon(248) 
+[2025-12-13 23:55:08] CPU Usage: 10.59%
+[2025-12-13 23:55:08] Memory Usage: 10.36% (397.50/3836.21 MB), Swap: 0.00%
+[2025-12-13 23:55:08] Top 5 Processes: rsyslogd(294) systemd-journal(92) gdm3(538) systemd(1) accounts-daemon(248) 
+[2025-12-13 23:55:09] CPU Usage: 10.57%
+[2025-12-13 23:55:09] Memory Usage: 10.36% (397.50/3836.21 MB), Swap: 0.00%
+[2025-12-13 23:55:09] Top 5 Processes: rsyslogd(294) systemd-journal(92) gdm3(538) systemd(1) accounts-daemon(248) 
+[2025-12-13 23:55:10] CPU Usage: 10.55%
+[2025-12-13 23:55:10] Memory Usage: 10.36% (397.50/3836.21 MB), Swap: 0.00%
+[2025-12-13 23:55:10] Top 5 Processes: rsyslogd(294) systemd-journal(92) gdm3(538) systemd(1) accounts-daemon(248) 
+[2025-12-13 23:55:11] CPU Usage: 10.54%
+[2025-12-13 23:55:11] Memory Usage: 10.36% (397.49/3836.21 MB), Swap: 0.00%
+[2025-12-13 23:55:11] Top 5 Processes: rsyslogd(294) systemd-journal(92) gdm3(538) systemd(1) accounts-daemon(248) 
+[2025-12-13 23:55:12] CPU Usage: 10.52%
+[2025-12-13 23:55:12] Memory Usage: 10.36% (397.49/3836.21 MB), Swap: 0.00%
+[2025-12-13 23:55:12] Top 5 Processes: rsyslogd(294) systemd-journal(92) gdm3(538) systemd(1) accounts-daemon(248) 
+[2025-12-13 23:55:13] CPU Usage: 10.50%
+[2025-12-13 23:55:13] Memory Usage: 10.36% (397.49/3836.21 MB), Swap: 0.00%
+[2025-12-13 23:55:13] Top 5 Processes: rsyslogd(294) systemd-journal(92) gdm3(538) systemd(1) accounts-daemon(248) 
+[2025-12-13 23:55:14] CPU Usage: 10.48%
+[2025-12-13 23:55:14] Memory Usage: 10.36% (397.49/3836.21 MB), Swap: 0.00%
+[2025-12-13 23:55:14] Top 5 Processes: rsyslogd(294) systemd-journal(92) gdm3(538) systemd(1) accounts-daemon(248) 
+[2025-12-13 23:55:15] CPU Usage: 10.46%
+[2025-12-13 23:55:15] Memory Usage: 10.36% (397.49/3836.21 MB), Swap: 0.00%
+[2025-12-13 23:55:15] Top 5 Processes: rsyslogd(294) systemd-journal(92) gdm3(538) systemd(1) accounts-daemon(248) 
+[2025-12-13 23:55:16] CPU Usage: 10.45%
+[2025-12-13 23:55:16] Memory Usage: 10.36% (397.49/3836.21 MB), Swap: 0.00%
+[2025-12-13 23:55:16] Top 5 Processes: rsyslogd(294) systemd-journal(92) gdm3(538) systemd(1) accounts-daemon(248) 
+[2025-12-13 23:56:05] === SysMonitor++ Started ===
+[2025-12-13 23:56:13] === Continuous Monitoring Started (Interval: 2s) ===
+[2025-12-13 23:56:13] CPU Usage: 9.53%
+[2025-12-13 23:56:13] Memory Usage: 10.39% (398.43/3836.21 MB), Swap: 0.00%
+[2025-12-13 23:56:13] Top 5 Processes: rsyslogd(294) systemd-journal(92) gdm3(538) systemd(1) accounts-daemon(248) 
+[2025-12-13 23:56:15] CPU Usage: 9.50%
+[2025-12-13 23:56:15] Memory Usage: 10.40% (398.93/3836.21 MB), Swap: 0.00%
+[2025-12-13 23:56:15] Top 5 Processes: rsyslogd(294) systemd-journal(92) gdm3(538) systemd(1) accounts-daemon(248) 
+[2025-12-13 23:56:17] === SysMonitor++ Ended (SIGINT) ===
+[2025-12-13 23:56:38] === SysMonitor++ Started ===
+[2025-12-13 23:56:44] === Continuous Monitoring Started (Interval: 10s) ===
+[2025-12-13 23:56:44] CPU Usage: 9.13%
+[2025-12-13 23:56:44] Memory Usage: 10.07% (386.31/3836.21 MB), Swap: 0.00%
+[2025-12-13 23:56:44] Top 5 Processes: rsyslogd(294) systemd-journal(92) gdm3(538) systemd(1) accounts-daemon(248) 
+[2025-12-13 23:56:54] CPU Usage: 9.00%
+[2025-12-13 23:56:54] Memory Usage: 10.18% (390.59/3836.21 MB), Swap: 0.00%
+[2025-12-13 23:56:54] Top 5 Processes: rsyslogd(294) systemd-journal(92) gdm3(538) systemd(1) accounts-daemon(248) 
+[2025-12-13 23:57:04] CPU Usage: 8.87%
+[2025-12-13 23:57:04] Memory Usage: 10.20% (391.36/3836.21 MB), Swap: 0.00%
+[2025-12-13 23:57:04] Top 5 Processes: rsyslogd(294) systemd-journal(92) gdm3(538) systemd(1) accounts-daemon(248) 
+[2025-12-13 23:57:05] === SysMonitor++ Ended (SIGINT) ===
+[2025-12-13 23:57:08] === SysMonitor++ Started ===
+[2025-12-13 23:57:13] === SysMonitor++ Ended (User Exit) ===
+[2025-12-14 00:06:03] === SysMonitor++ Started ===
+[2025-12-14 00:06:04] Top 5 Processes: rsyslogd(294) systemd-journal(92) systemd(1) gdm3(538) accounts-daemon(248) 
+[2025-12-14 00:08:32] === SysMonitor++ Ended (User Exit) ===
+[2025-12-14 00:14:06] === SysMonitor++ Started ===
+[2025-12-14 00:14:09] Top 5 Processes: rsyslogd(294) systemd-journal(92) systemd(1) gdm3(538) gnome-text-edit(1026) 
+[2025-12-14 00:14:13] === Continuous Monitoring Started (Interval: 1s) ===
+[2025-12-14 00:14:13] CPU Usage: 4.53%
+[2025-12-14 00:14:13] Memory Usage: 13.99% (536.53/3836.21 MB), Swap: 0.00%
+[2025-12-14 00:14:13] Top 5 Processes: rsyslogd(294) systemd-journal(92) systemd(1) gdm3(538) gnome-text-edit(1026) 
+[2025-12-14 00:14:14] CPU Usage: 4.53%
+[2025-12-14 00:14:14] Memory Usage: 14.16% (543.06/3836.21 MB), Swap: 0.00%
+[2025-12-14 00:14:14] Top 5 Processes: rsyslogd(294) systemd-journal(92) systemd(1) gdm3(538) gnome-text-edit(1026) 
+[2025-12-14 00:14:14] === SysMonitor++ Ended (SIGINT) ===
+[2025-12-14 00:14:21] === SysMonitor++ Started ===
+[2025-12-14 00:14:21] === Continuous Monitoring Started (Interval: 2s) ===
+[2025-12-14 00:14:21] CPU Usage: 4.53%
+[2025-12-14 00:14:21] Memory Usage: 14.16% (543.07/3836.21 MB), Swap: 0.00%
+[2025-12-14 00:14:21] Top 5 Processes: rsyslogd(294) systemd-journal(92) systemd(1) gdm3(538) gnome-text-edit(1026) 
+[2025-12-14 00:14:23] === SysMonitor++ Ended (SIGINT) ===

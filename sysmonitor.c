@@ -525,7 +525,6 @@ void listTopProcesses() {
 
 /*
  * Continuous Monitoring Mode
- * TO BE IMPLEMENTED BY MEMBER 3 (alr implement)
  */
 void continuousMonitor(int interval) {
     char msg[100];
