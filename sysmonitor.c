@@ -1,7 +1,7 @@
 /*
  * SysMonitor++ - Linux System Resource Monitoring Tool
  * TMN4133 System Programming Group Project
- * Najwa: Main Code Structure & CPU Usage Module
+ * Najwa Azlan: Main Code Structure & CPU Usage Module
  * Hanisah Zain: Memory Usage & Top Processes Implementation
  * Hanisah Ibrahim : README.md and Documentation
  * Amisha Rittner : CLI Argument Parsing & Continuous Monitoring
@@ -253,7 +253,7 @@ void getCPUUsage() {
     unsigned long long total_active = user + nice + system + irq + softirq;
     unsigned long long total = total_idle + total_active;
     
-    // Simple calculation (for real-time, you'd need two samples)
+    //Calculation formula
     double usage_percent = 0.0;
     if(total > 0) {
         usage_percent = (double)total_active / total * 100.0;
